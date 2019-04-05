@@ -1,3 +1,3 @@
 package objects
 
-type Entitlement struct
+type Entitlement struct{}

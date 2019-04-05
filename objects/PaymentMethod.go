@@ -1,3 +1,3 @@
 package objects
 
-type PaymentMethod struct
+type PaymentMethod struct{}

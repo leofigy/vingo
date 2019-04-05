@@ -1,3 +1,3 @@
 package objects
 
-type TaxExemption struct
+type TaxExemption struct{}

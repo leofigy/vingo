@@ -1,3 +1,4 @@
 package objects
 
-type Address struct
+type Address struct {
+}
