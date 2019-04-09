@@ -1,5 +1,6 @@
 package objects
 
+//CreditCard can be any card i.e debit
 type CreditCard struct {
 	Object         string
 	VID            string

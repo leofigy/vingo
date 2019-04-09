@@ -1,5 +1,5 @@
 package objects
 
-type ApplePay struct{
-
+//ApplePay TBD in docu
+type ApplePay struct {
 }

@@ -1,3 +1,4 @@
 package objects
 
-type Boleto struct {}
+//Boleto TBD in docu
+type Boleto struct{}
